@@ -2,7 +2,7 @@
 
 Babylist University lines of business interactive workshop. Hosted on GitHub Pages.
 
-Live: https://stutes-babylist.github.io/tech-finance-workshop/
+Live: https://babylist.github.io/tech-finance-workshop/
 
 ## Local dev
 
