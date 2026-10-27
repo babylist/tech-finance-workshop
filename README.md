@@ -2,6 +2,8 @@
 
 Babylist University lines of business interactive workshop. Hosted on Vercel.
 
+Live: https://tech-finance-workshop.vercel.app
+
 ## Local dev
 
 ```bash
