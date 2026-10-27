@@ -21,3 +21,5 @@ npm run preview
 ## Deploy
 
 Vercel builds and deploys on every push to `main`. Pull requests get preview deployments.
+
+Vercel project: https://vercel.com/babylist/tech-finance-workshop
