@@ -1,8 +1,8 @@
 # tech-finance-workshop
 
-Babylist University lines of business interactive workshop. Hosted on GitHub Pages.
+Babylist University lines of business interactive workshop. Hosted on Vercel.
 
-Live: https://babylist.github.io/tech-finance-workshop/
+Live: https://tech-finance-workshop.vercel.app
 
 ## Local dev
 
@@ -20,6 +20,6 @@ npm run preview
 
 ## Deploy
 
-Pushes to `main` deploy automatically via `.github/workflows/deploy.yml`.
+Vercel builds and deploys on every push to `main`. Pull requests get preview deployments.
 
-One-time setup: in the repo settings, go to **Pages** and set **Source = GitHub Actions**.
+Vercel project: https://vercel.com/babylist/tech-finance-workshop
